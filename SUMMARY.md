@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Blux Documentation](README.md)
+* [Documentation Blux](README.md)

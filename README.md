@@ -1,2 +1,2 @@
-# Blux Documentation
+# Documentation Blux
 
